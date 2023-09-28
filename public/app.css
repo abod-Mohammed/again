@@ -1,0 +1,12 @@
+body{
+    max-width: 600px;
+    color: black;
+    margin: auto;
+    font-family: sans-serif;
+    background: aquamarine;
+}
+
+article+article{
+    margin-top: 20px;
+    border-top: 1px solid #3b3838;
+}
